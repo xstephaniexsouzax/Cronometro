@@ -3,7 +3,7 @@ var minutos = 0;
 var horas = 0;
 var intervalo;
 
-// a cada 5 seggundos é 1 minuto
+// a cada 5 segundos é 1 minuto
 // a cada 2 min é 1 hora 
 
 function contarSegundos() {
